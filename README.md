@@ -1,4 +1,4 @@
-# A Simple dApp built in Tezos
+# A Simple dApp built on Tezos
 
 This is a simple dApp using NextJS and Taquito that shows you how to access a user's wallet on the tezos chain and display information from it.
 
