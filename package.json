@@ -6,6 +6,9 @@
     "start": "next start"
   },
   "dependencies": {
+    "@airgap/beacon-sdk": "^4.0.12",
+    "@taquito/beacon-wallet": "^17.3.2",
+    "@taquito/taquito": "^17.3.2",
     "next": "latest",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
