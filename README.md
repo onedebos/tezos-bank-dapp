@@ -2,6 +2,8 @@
 
 This is a simple dApp using NextJS and Taquito that shows you how to access a user's wallet on the tezos chain and display information from it.
 
+It also demonstrates how users can send tokens to each other via the App UI.
+
 Follow the tutorials [here](docs.tezos.com)
 
 # Run this dApp by following the instructions below
